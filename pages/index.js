@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>LinkedIn Post Generator</title>
+        <title>LinkedIn Magic</title>
         <link rel="icon" href="https://cdn-icons-png.flaticon.com/128/8381/8381998.png" />
       </Head>
       <div>
@@ -17,7 +17,7 @@ export default function Home() {
           <a href="https://ai-tweet-generator-eight.vercel.app/" target="_blank" rel="noopener noreferrer" className="twitter-icon">
             <RiTwitterXLine />
           </a>
-          <a href="https://github.com/arindal1/LinkedIn-Post-Generator" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/arindal1/AI-LinkedIn-Generator" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
         </div>
